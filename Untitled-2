@@ -1,0 +1,84 @@
+function printname(name){
+var name="Nisha"
+console.log(name)
+}
+
+function printname(name){
+console.log(name)
+}
+
+//write afunction called add5 that takes a number and add 5 to it
+function add5(add){
+var add = add5+5
+cosole.log(add)
+}
+
+
+funtion addfive(kevin){
+kevin+=5;
+console.log(n)
+}
+
+
+function add(numone, numtwo){
+var sum = numone+numtwo;
+console.log(sum)
+}
+
+
+add(10,15);
+
+function add(numbone, numtwo){
+console.log(numone)
+console
+}
+
+
+//write a function that takes a name and a age and prints out a string that says "hello{name} you are {age} years old
+
+function me(name,age){
+console.log("Hello" + name + "you are" + age+ "years old");
+
+}
+
+me(name,age)
+
+//space works as character
+
+
+
+var num = 5+4;
+console.log(num);
+
+
+
+function add(numone,numtwo){
+var sum= numone+numtwo;
+console.log(sum)
+}
+
+add(5,6);
+
+
+//return stop the function to work..only one return can happen from function. It is result of function
+
+
+
+//update your fancy displydesc function to returnthe string instead of console.log
+
+
+function me(name,age){
+return "Hello" + name + "you are" + age+ "years old";
+}
+
+me()
+
+
+var str = me("nick", 68.2);
+
+console.log(str);
+
+console.log
+
+
+
